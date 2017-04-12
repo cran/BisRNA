@@ -1,0 +1,6 @@
+export(RNAmeth.poisson.par)
+export(RNAmeth.poisson.test)
+export(class.BisXP)
+export(fisher.method)
+export(read.BisXP)
+export(samples.combine)

@@ -1,0 +1,16 @@
+citEntry(entry = "article",
+         title = "Statistically robust methylation calling for whole-transcriptome bisulfite sequencing reveals distinct methylation patterns for mouse RNAs",
+         author = personList( as.person("Carine Legrand"),
+                    as.person("Francesca Tuorto"),
+                    as.person("Mark Hartmann"),
+                    as.person("Reinhard Liebers"),
+                    as.person("Dominik Jacob"),
+                    as.person("Mark Helm"),
+                    as.person("Frank Lyko")),
+         journal = "Genome Research (provisionally accepted)",
+         year = 2017,
+         textVersion = 
+         paste("Carine Legrand, Francesca Tuorto, Mark Hartmann, Reinhard Liebers, Dominik Jacob, Mark Helm and Frank Lyko.",
+               "Statistically robust methylation calling for whole-transcriptome bisulfite sequencing reveals distinct methylation patterns for mouse RNAs.",
+               "Genome Research (provisionally accepted).")
+         )
