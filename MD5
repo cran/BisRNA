@@ -1,6 +1,6 @@
-67c1b9af235a82bde1c42a0f4caf4f9b *DESCRIPTION
+0319bd5073399b9c7deddcc4e687624a *DESCRIPTION
 603f7a2a8b5408a63a7296fa80967685 *NAMESPACE
-ccad43065351f6889e71543647d3b50f *R/RNAmeth.poisson.par.R
+c33bfd248eea96984235e318f161caaa *R/RNAmeth.poisson.par.R
 fdaa628e285757255d4d67719c63fd89 *R/RNAmeth.poisson.test.R
 f5a822be53b772ad80265c56591fedf9 *R/class.BisXP.R
 433a14e6cbb54c29a6bb1ad512c8b4e0 *R/fisher.method.R
@@ -8,7 +8,7 @@ d45a03fdebf6c30e1c9149740ce98d98 *R/intersectMatrix.R
 6fec449df9d23996a490e329db3dbc56 *R/samples.combine.R
 d2bfe49b23ebd2db4fbec655ab547714 *R/testMeth.R
 b3f0c2682944de844e633f79596f27e0 *data/Bisdata.rda
-4e55cdeb514e0b3217e0f984135c56dc *inst/CITATION
+b7f6a68c6c7aca8e4c28260885b9e181 *inst/CITATION
 73089184ecf0a8d98ed0e1606b824204 *inst/testdata/BSdata.tabular
 882e7505ddd823bc00db1b73615726af *man/BisRNA-package.Rd
 fb51cfa457831d0ef17c59d05f228915 *man/Bisdata.Rd

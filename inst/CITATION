@@ -7,10 +7,14 @@ citEntry(entry = "article",
                     as.person("Dominik Jacob"),
                     as.person("Mark Helm"),
                     as.person("Frank Lyko")),
-         journal = "Genome Research (provisionally accepted)",
+         journal = "Genome Research",
+         doi = "10.1101/gr.210666.116",
+         volume = 27,
+         issue = 9,
+         pages = "1589-1596",
          year = 2017,
          textVersion = 
-         paste("Carine Legrand, Francesca Tuorto, Mark Hartmann, Reinhard Liebers, Dominik Jacob, Mark Helm and Frank Lyko.",
+         paste("Legrand C, Tuorto F, Hartmann M, Liebers R, Jacob D, Helm M and Lyko F (2017).",
                "Statistically robust methylation calling for whole-transcriptome bisulfite sequencing reveals distinct methylation patterns for mouse RNAs.",
-               "Genome Research (provisionally accepted).")
+               "Genome Research 27(9):1589-1596")
          )

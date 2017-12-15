@@ -49,7 +49,7 @@ RNAmeth.poisson.par <- function(BSrna)
 
   ## Ratio (Poisson parameter / coverage) in each coverage bin
   resuP  <- c()
-  for (i in 2:length(hico$mids))
+  for (i in 2:length(hico$mids)-1)
   {
     tcovlocal <- hico$breaks[i+1]
     tofit     <- txfit[tcov>=hico$mids[i] & tcov<hico$mids[(i+1)]] * tcovlocal
